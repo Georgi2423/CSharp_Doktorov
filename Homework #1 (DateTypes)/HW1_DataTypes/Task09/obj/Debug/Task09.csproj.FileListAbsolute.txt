@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #1 (DateTypes)\HW1_DataTypes\Task09\bin\Debug\Task09.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #1 (DateTypes)\HW1_DataTypes\Task09\bin\Debug\Task09.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #1 (DateTypes)\HW1_DataTypes\Task09\bin\Debug\Task09.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #1 (DateTypes)\HW1_DataTypes\Task09\obj\Debug\Task09.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #1 (DateTypes)\HW1_DataTypes\Task09\obj\Debug\Task09.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #1 (DateTypes)\HW1_DataTypes\Task09\obj\Debug\Task09.csprojResolveAssemblyReference.cache

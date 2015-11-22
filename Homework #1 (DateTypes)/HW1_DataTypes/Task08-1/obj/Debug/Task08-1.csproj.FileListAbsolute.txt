@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #1 (DateTypes)\HW1_DataTypes\Task08-1\bin\Debug\Task08-1.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #1 (DateTypes)\HW1_DataTypes\Task08-1\bin\Debug\Task08-1.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #1 (DateTypes)\HW1_DataTypes\Task08-1\bin\Debug\Task08-1.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #1 (DateTypes)\HW1_DataTypes\Task08-1\obj\Debug\Task08-1.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #1 (DateTypes)\HW1_DataTypes\Task08-1\obj\Debug\Task08-1.pdb
