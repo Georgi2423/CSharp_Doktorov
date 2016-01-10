@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Methods_3\bin\Debug\Methods_3.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Methods_3\bin\Debug\Methods_3.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Methods_3\bin\Debug\Methods_3.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Methods_3\obj\Debug\Methods_3.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Methods_3\obj\Debug\Methods_3.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Methods_3\obj\Debug\Methods_3.csprojResolveAssemblyReference.cache

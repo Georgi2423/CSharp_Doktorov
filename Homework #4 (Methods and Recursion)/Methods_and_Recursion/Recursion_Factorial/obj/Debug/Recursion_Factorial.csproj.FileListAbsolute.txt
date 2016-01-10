@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Recursion_Factorial\bin\Debug\Recursion_Factorial.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Recursion_Factorial\obj\Debug\Recursion_Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Recursion_Factorial\bin\Debug\Recursion_Factorial.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Recursion_Factorial\bin\Debug\Recursion_Factorial.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Recursion_Factorial\obj\Debug\Recursion_Factorial.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Recursion_Factorial\obj\Debug\Recursion_Factorial.pdb
