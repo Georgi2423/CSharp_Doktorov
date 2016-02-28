@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #8 (DataStructures1)\DataStructures1\Task3\bin\Debug\Task3.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #8 (DataStructures1)\DataStructures1\Task3\bin\Debug\Task3.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #8 (DataStructures1)\DataStructures1\Task3\bin\Debug\Task3.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #8 (DataStructures1)\DataStructures1\Task3\obj\Debug\Task3.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #8 (DataStructures1)\DataStructures1\Task3\obj\Debug\Task3.pdb

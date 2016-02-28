@@ -1,0 +1,7 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #8 (Strings and Text Manipulations)\Homework_8\Task07\bin\Debug\Task07.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task07\bin\Debug\Task07.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task07\bin\Debug\Task07.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task07\bin\Debug\Task07.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task07\obj\Debug\Task07.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task07\obj\Debug\Task07.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task07\obj\Debug\Task07.pdb

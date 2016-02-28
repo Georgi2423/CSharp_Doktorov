@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Methods_5\bin\Debug\Methods_5.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Methods_5\bin\Debug\Methods_5.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Methods_5\bin\Debug\Methods_5.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Methods_5\obj\Debug\Methods_5.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Methods_5\obj\Debug\Methods_5.pdb

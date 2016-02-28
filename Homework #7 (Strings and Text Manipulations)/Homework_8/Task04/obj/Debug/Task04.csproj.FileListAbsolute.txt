@@ -1,0 +1,11 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #8 (Strings and Text Manipulations)\Homework_8\Task04\bin\Debug\Task04.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #8 (Strings and Text Manipulations)\Homework_8\Task04\bin\Debug\Task04.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #8 (Strings and Text Manipulations)\Homework_8\Task04\bin\Debug\Task04.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #8 (Strings and Text Manipulations)\Homework_8\Task04\obj\Debug\Task04.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #8 (Strings and Text Manipulations)\Homework_8\Task04\obj\Debug\Task04.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task04\bin\Debug\Task04.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task04\obj\Debug\Task04.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task04\obj\Debug\Task04.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task04\bin\Debug\Task04.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task04\bin\Debug\Task04.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #7 (Strings and Text Manipulations)\Homework_8\Task04\obj\Debug\Task04.csprojResolveAssemblyReference.cache

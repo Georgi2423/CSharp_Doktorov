@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #5 (Classes and Objects)\ClassesAndObjects\Task04\bin\Debug\Task04.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #5 (Classes and Objects)\ClassesAndObjects\Task04\bin\Debug\Task04.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #5 (Classes and Objects)\ClassesAndObjects\Task04\bin\Debug\Task04.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #5 (Classes and Objects)\ClassesAndObjects\Task04\obj\Debug\Task04.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #5 (Classes and Objects)\ClassesAndObjects\Task04\obj\Debug\Task04.pdb

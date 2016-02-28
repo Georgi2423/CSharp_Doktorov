@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #9 (DataStructures2)\DataStructures2\Task02\bin\Debug\Task02.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #9 (DataStructures2)\DataStructures2\Task02\bin\Debug\Task02.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #9 (DataStructures2)\DataStructures2\Task02\bin\Debug\Task02.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #9 (DataStructures2)\DataStructures2\Task02\obj\Debug\Task02.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #9 (DataStructures2)\DataStructures2\Task02\obj\Debug\Task02.pdb

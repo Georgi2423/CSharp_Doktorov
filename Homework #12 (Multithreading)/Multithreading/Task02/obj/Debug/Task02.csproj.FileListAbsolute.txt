@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #12 (Multithreading)\Multithreading\Task02\bin\Debug\Task02.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #12 (Multithreading)\Multithreading\Task02\bin\Debug\Task02.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #12 (Multithreading)\Multithreading\Task02\bin\Debug\Task02.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #12 (Multithreading)\Multithreading\Task02\obj\Debug\Task02.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #12 (Multithreading)\Multithreading\Task02\obj\Debug\Task02.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #12 (Multithreading)\Multithreading\Task02\obj\Debug\Task02.pdb

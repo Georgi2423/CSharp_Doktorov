@@ -1,1 +1,5 @@
 C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Permu\bin\Debug\Permu.exe.config
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Permu\bin\Debug\Permu.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Permu\bin\Debug\Permu.pdb
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Permu\obj\Debug\Permu.exe
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #4 (Methods and Recursion)\Methods_and_Recursion\Permu\obj\Debug\Permu.pdb

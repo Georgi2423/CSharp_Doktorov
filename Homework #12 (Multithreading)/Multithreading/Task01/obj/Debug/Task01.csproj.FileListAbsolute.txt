@@ -1,0 +1,1 @@
+C:\Users\Georgi\Desktop\C# Tasks and HWs\CSharp_Doktorov\Homework #12 (Multithreading)\Multithreading\Task01\bin\Debug\Task01.exe.config
